@@ -1,4 +1,4 @@
-<h1 align="center">// XeroLinux Official Package Repo \\ <br />
+<h1 align="center">// AuraOSS Official Package Repo \\ <br />
 !!! Please DO NOT Clone !!!</h1>
 
 <p align="center">
