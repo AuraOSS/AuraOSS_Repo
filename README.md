@@ -2,5 +2,5 @@
 !!! Please DO NOT Clone !!!</h1>
 
 <p align="center">
-    <img width="750" src="images/aura.jpg" alt="logo">
+    <img width="750" src="Aura.jpg" alt="logo">
 </p>
